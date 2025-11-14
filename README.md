@@ -5,7 +5,7 @@ This project implements **real-time fall detection** using [YOLOv11-Pose](https:
 ---
 
 ## 🚀 Features
-- **YOLOv10-Pose integration** for 17-keypoint human skeleton detection.
+- **YOLOv11-Pose integration** for 17-keypoint human skeleton detection.
 - **DeepSort tracking** to maintain consistent IDs across frames.
 - **Fall detection logic**: compares shoulder vs. lower-body keypoints to flag when a person may have fallen.
 - **Video output** with bounding boxes, skeletons, and fall alerts.
@@ -23,5 +23,5 @@ This project implements **real-time fall detection** using [YOLOv11-Pose](https:
 
 Clone the repository:
 ```bash
-git clone https://github.com/Mazen-Ahmed12/people-fall-detection-using-Yolov10-pose-Deepsort.git
-cd people-fall-detection-using-Yolov10-pose-Deepsort
+git clone https://github.com/Mazen-Ahmed12/people-fall-detection-using-Yolov11-pose-Deepsort.git
+cd people-fall-detection-using-Yolov11-pose-Deepsort
