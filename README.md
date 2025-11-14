@@ -15,7 +15,7 @@ This project implements **real-time fall detection** using [YOLOv11-Pose](https:
 
 ## 📂 Project Structure
 - `people fall detection using YOLOv11-Pose+Deepsort.ipynb` → the googleColab file for detection, skeleton drawing, and fall detection.
-- `cam2.avi` → Example input video (replace with your own).  
+- `cam7.avi` → Example input video (replace with your own).  
 
 ---
 
