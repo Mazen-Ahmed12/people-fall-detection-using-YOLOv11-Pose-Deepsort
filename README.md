@@ -25,3 +25,14 @@ Clone the repository:
 ```bash
 git clone https://github.com/Mazen-Ahmed12/people-fall-detection-using-Yolov11-pose-Deepsort.git
 cd people-fall-detection-using-Yolov11-pose-Deepsort
+```
+## OR 
+
+## You can Run the notebook on (Google Colab) 
+1. Download the notebook and Open it in Colab
+2. Make sure you have GPU runtime enabled:
+    - Go to **Runtime → Change runtime type → GPU**
+3. Run the cells step by step:
+   - Install dependencies (YOLO, MediaPipe, DeepSort, OpenCV)
+   - upload the model on google colab and change the directory in the code the path of the model(custome - YOLO) 
+   - upload the video you want to run the detection on and change the path of the video in the code and run the detection 
